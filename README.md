@@ -11,8 +11,8 @@ To resume what already is a colossal story: This is the depository of many files
 ------------
 FOLDERS
 
-* Palletes: They are simple pallete swaps. Usually they are done for one specific use along my playthoughs, but they all apply to the main game normally.
+* PALLETES: They are simple pallete swaps. Usually they are done for one specific use along my playthoughs, but they all apply to the main game normally.
 
-* Class Sprites: Those changes the sprites (battle and map) for the main classes of the game. Usually they are done for one specific use along my playthoughs, but they all apply to the main game normally. 
+* SPRITE-CLASS: Those changes the sprites (battle and map) for the main classes of the game. Usually they are done for one specific use along my playthoughs, but they all apply to the main game normally. 
 
-* Rescue: THIS is the folder where ANY and EVERY hack lost in time goes when it is rescue. By the time you are reading this, I HOPE there is a lot of files inside...
+* RESCUE: THIS is the folder where ANY and EVERY hack lost in time goes when it is rescue. By the time you are reading this, I HOPE there is a lot of files inside...
